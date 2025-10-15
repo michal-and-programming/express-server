@@ -5,6 +5,7 @@
   "author": "michal",
   "license": "MIT",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0",
     "nodemon": "^3.1.10",
     "uuid": "^13.0.0"
